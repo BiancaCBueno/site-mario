@@ -78,7 +78,7 @@ button {
     border-radius: 10px;    
     gap: 20px; /*espaçamentos em todos itens */
     position: fixed;
-    left: -320px;
+    left: -445px;
     transition: left 1s linear;
     z-index: 4; /* basicamente serve como uma camada */
 }
